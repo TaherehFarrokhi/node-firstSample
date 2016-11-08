@@ -1,0 +1,19 @@
+{
+  "name": "firstsample",
+  "version": "1.0.0",
+  "description": "My first Sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "firstCommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaherehFarrokhi/node-firstSample.git"
+  },
+  "author": "Tahereh Farrokhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaherehFarrokhi/node-firstSample/issues"
+  },
+  "homepage": "https://github.com/TaherehFarrokhi/node-firstSample#readme"
+}
